@@ -1,2 +1,2 @@
 WELCOME TO PACKER,
-This text received from file welcome.txt
+This text received from file example2.txt
